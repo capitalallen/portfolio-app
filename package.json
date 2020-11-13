@@ -3,16 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "gh-pages": "^2.0.1",
+    "marked": "^1.2.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-markdown": "^4.3.1",
+    "react-pdf": "^5.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "2.1.5",
+    "read-markdown": "^1.0.2",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
