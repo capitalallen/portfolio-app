@@ -40,7 +40,7 @@
   - Implemented roBERTa Model with a pretrained roBERTa base model and a custom question answer head to capture sentiment of tweets
   - Trained with 5 Stratified KFolds
   - Jaccard loss: 0.70
-- Built with **Sklearn**, **Tensorflow**, **Pandas**, **seaborn**, **Python**,
+- Built with **Sklearn**, **Tensorflow**, **Pandas**, **seaborn**, **Python**
 
 ---
 
