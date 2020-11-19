@@ -1,6 +1,7 @@
 {
   "name": "portfolio-app",
   "version": "0.1.0",
+	"homepage": "http://capitalallen.github.io/portfolio-app",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.2.0",
@@ -18,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
