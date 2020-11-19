@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+            "name":"ML Trading",
+            "description":"A cryptocurrency trading project that uses Machine Learning models to trade 4 different cryptocurrencies at the same time.",
+            "image":"https://kryptomoney.com/wp-content/uploads/2018/04/KryptoMoney.com-How-To-Become-a-Cryptocurrency-Trader.png",
+            "link":""
+        },
+        {
+            "name":"IuvoShare",
+            "description":"A mobile App that Leverages Blockchain technology to reward people for sharing ideas and helping others.",
+            "image":"https://storage.googleapis.com/resources-all/Screen%20Shot%202020-11-12%20at%2011.36.39%20PM.png",
+            "link":"https://play.google.com/store/apps/details?id=com.capitalallen.goodluck"
+        },
+        {
+            "name":"CI/CD Pipeline",
+            "description":"Fully automated CI/CD pipeline which was built with Gradle, Jenkins, Kubernete and Docker.",
+            "image":"https://storage.googleapis.com/resources-all/CI-CD-Pipeline-CI-CD-Pipeline-Edureka.png",
+            "link":"https://github.com/capitalallen/cicd-pipeline"
+        }
+    ]
+}

@@ -14,17 +14,10 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a computer grad student from DAIICT-Gandhinagar
-                        with ICT as my major.I love exploring new technologies
-                        and often amazed by the progress we as a human species
-                        have mad so far in the recent years (apart from the
-                        headphone-jack part!!)
+                        I'm an upcoming graduate of the Western University in Computer Science.
                       </p>
                       <p>
-                        I have started reflecting my ideas and thougths through
-                        the medium of words recently so spelling and grammer
-                        mistaks are very often.You can write me back if you spot
-                        any and don't want to live anymore :P{' '}
+                      I mainly use this website to index personal information about myself, and also as a fun way to track my progress learning life.
                       </p>
                     </div>
                   </div>
@@ -50,10 +43,10 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                   </span>
                   <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Web & Mobile Development </h3>
                     <p>
-                      I have experience building websites and chrome extentions
-                      using JavaScript,React,HTML,CSS
+                      I have experience building websites and mobeil applications
+                      using React.js, Node.js, SQL, Python
                     </p>
                   </div>
                 </div>
@@ -66,8 +59,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>
-                      As coming from the CS background, I have good grasp over
-                      fundamental concepts of DSA
+                      As coming from the CS background, I love sovling Algorithm Questions 
                     </p>
                   </div>
                 </div>
@@ -78,10 +70,10 @@ export default class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Dev Ops</h3>
+                    <h3>Machine Learning</h3>
                     <p>
-                      I am pursuing my internship with DevOps team at Juniper
-                      and working with tools like Jenkins, Docker, K8s
+                      I am Completing a thesis research about Emotion Recognitition, 
+                      using Parallel Convolutional Recurrent Neural Network and baseline data preprocessing techniques
                     </p>
                   </div>
                 </div>

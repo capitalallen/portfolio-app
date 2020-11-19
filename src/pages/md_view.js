@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown';
 // import termsFrPath from './projects.md';
 import ReactDOM from 'react-dom';
 
+
 class md_view extends React.Component {
   constructor(props) {
     super(props);
@@ -22,7 +23,7 @@ class md_view extends React.Component {
   render() {
     return (
       <div className="content">
-        <ReactMarkdown source={this.state.terms} />
+        <ReactMarkdown source={this.state.terms}/>
       </div>
     );
   }

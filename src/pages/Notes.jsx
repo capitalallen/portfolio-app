@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ProjectsOverview from './ProjectsOverview';
 import uuid from 'uuid';
 import { BrowserRouter as Router, Link } from 'react-router-dom';
-import SingeProject from '../components/single_project';
+import SingeNote from '../components/single_note';
 export default class Notes extends Component {
   linkTarget = {
     pathname: '/notes',
@@ -28,9 +28,9 @@ export default class Notes extends Component {
                 <h2 className="colorlib-heading">Notes</h2>
               </div>
             </div>
-            <SingeProject data={this.state.data} />
+            <SingeNote data={this.state.data} />
             <div className="row">
-              <div className="col-md-12 animate-box">
+              <div className="col-md-12">
                 {/* <Route path="/projectoverview" component={ProjectsAll}> */}
                 <p>
                   <Link

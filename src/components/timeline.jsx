@@ -22,19 +22,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Internship at Juniper <span>2019-present</span>
+                          Software Developer at Iuvo rideshare Inc<span>2017-2018</span>
                         </h2>
                         <p>
-                          I recently have joined the Juniper Networs as a
-                          Software Developer-Intern in the DevOps team. My major
-                          part of the work has been into the field of creating
-                          sustainable and flexible CI/CD (Continuous Integration
-                          & Continuous Development) pipelines which enables
-                          developers at Juniper to do rapid development. I am
-                          also exploring the role of container technology like
-                          Docker and container-orchrastation technologies like
-                          K8s, Swarm to create industry standard production
-                          environments.
+                          Iuvo rideshare Inc is a company that provides long-distance ridesharing platform. I was responsible for building the mobile application for the platform.
                         </p>
                       </div>
                     </div>
@@ -46,16 +37,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Undergraduation at DAIICT<span>2015-2019</span>
+                          Software Developer & Co-founder of VpickU<span>2016-2017</span>
                         </h2>
                         <p>
-                          I am pursuing my under-graduation studies with major
-                          in I.C.T.(Information & Communication Technology). I
-                          have taken courses like DSA, OOPs, Computer Networks,
-                          IOT, Web-Data Management over the years and have
-                          better understanding of these subjects.I have also
-                          been part of S.B.G.(Student Body Govenance) scince my
-                          first year of college.
+                          VpickU is a startup company which helps International Students to settle down in Canada. I bulit both frontend and backend of the websites to receieve orders from students. I also developed a traffic tracking library to visualize where the traffic comes from.  
                         </p>
                       </div>
                     </div>
@@ -67,16 +52,11 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Primary and Higher Education <span>2003-2015</span>
+                         Undergraduation at Western University <span>2016-2021</span>
                         </h2>
                         <p>
-                          I have completed my higher secondary education with
-                          major subjects as Physics,Chemistry & Maths with 91
-                          merit. During my time at school, I have developed
-                          interest in solving complex problems of the
-                          fundamental physics which helped me to improve my
-                          understanding of any problem and also my mathematical
-                          skills to actually solve the problems.
+                          I am pursuing my under-graduation studies with major
+                          in Computer Science.
                         </p>
                       </div>
                     </div>

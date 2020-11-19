@@ -30,10 +30,10 @@ export default class Sidebar extends Component {
                 style={{ backgroundImage: 'url(images/about.jpg)' }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Dhruv Barochiya</a>
+                <a href="index.html">Allen(Zeyu) Zhang</a>
               </h1>
               <span className="email">
-                <i className="icon-mail"></i> dhruv.barochia34788@gmail.com
+                <i className="icon-mail"></i> zzhan785@uwo.ca
               </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -94,34 +94,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li>
                   <a
-                    href="https://www.facebook.com/dhruv.barochia"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-facebook2" />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://twitter.com/ddbarochiya"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-twitter2" />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.instagram.com/ddbarochiya/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-instagram" />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.linkedin.com/in/dbarochiya/"
+                    href="https://www.linkedin.com/in/zeyuzhang-/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -130,26 +103,17 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/dbarochiya"
+                    href="https://github.com/capitalallen"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <i className="icon-github"></i>
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="https://medium.com/@dhruv.barochia34788"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-blogger2"></i>
-                  </a>
-                </li>
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p>
+              {/* <p>
                 <small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and{' '}
                   <i className="icon-beer" aria-hidden="true"></i>
@@ -167,7 +131,13 @@ export default class Sidebar extends Component {
               </p>
               <p>
                 <small>Something coming soon !!</small>
-              </p>
+              </p> */}
+              <a
+                href="https://github.com/dbarochiya"
+                target="_blank"
+              >
+                View Resume
+              </a>
             </div>
           </aside>
         </div>
