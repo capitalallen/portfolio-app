@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Link } from 'react-router-dom';
 import uuid from 'uuid';
 export default class Sidebar extends Component {
-  mylink = "http://localhost:3000/";
+  mylink = "https://ace-resolver-237602.uc.r.appspot.com/";
   linkTarget = {
     pathname: '/',
     key: uuid(), // we could use Math.random, but that's not guaranteed unique.
@@ -134,7 +134,7 @@ export default class Sidebar extends Component {
                 <small>Something coming soon !!</small>
               </p> */}
               <a
-                href="http://localhost:3000/resume.pdf"
+                href={this.mylink +"resume.pdf"}
                 target="_blank"
               >
                 View Resume

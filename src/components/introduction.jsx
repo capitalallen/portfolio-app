@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
 export default class Introduction extends Component {
-  cv_link = "http://localhost:3000/resume.pdf"
-  proj_link = "http://localhost:3000/projectsoverview"
+  cv_link = "https://ace-resolver-237602.uc.r.appspot.com/resume.pdf"
+  proj_link = "https://ace-resolver-237602.uc.r.appspot.com/projectsoverview"
   render() {
     return (
       <div>
