@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Link } from 'react-router-dom';
 import uuid from 'uuid';
 export default class Sidebar extends Component {
+  mylink = "http://localhost:3000/";
   linkTarget = {
     pathname: '/',
     key: uuid(), // we could use Math.random, but that's not guaranteed unique.
@@ -30,7 +31,7 @@ export default class Sidebar extends Component {
                 style={{ backgroundImage: 'url(images/about.jpg)' }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Allen(Zeyu) Zhang</a>
+                <a href={this.mylink} target="_blank">Allen(Zeyu) Zhang</a>
               </h1>
               <span className="email">
                 <i className="icon-mail"></i> zzhan785@uwo.ca
@@ -40,52 +41,52 @@ export default class Sidebar extends Component {
               <div id="navbar" className="collapse">
                 <ul>
                   <li className="active">
-                    <Link to={this.linkTarget} data-nav-section="home">
+                    {/* <Link to={this.linkTarget} data-nav-section="home">
                       Introduction
-                    </Link>
-                    {/* <a href="#home" data-nav-section="home">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="home">
                       Introduction
-                    </a> */}
+                    </a>
                   </li>
                   <li>
-                    <Link to={this.linkTarget} data-nav-section="about">
+                    {/* <Link to={this.linkTarget} data-nav-section="about">
                       About
-                    </Link>
-                    {/* <a href="#about" data-nav-section="about">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="about">
                       About
-                    </a> */}
+                    </a>
                   </li>
                   <li>
-                    <Link to={this.linkTarget} data-nav-section="projects">
+                    {/* <Link to={this.linkTarget} data-nav-section="projects">
                       Projects
-                    </Link>
-                    {/* <a href="#projects" data-nav-section="projects">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="projects">
                       Projects
-                    </a> */}
+                    </a>
                   </li>
                   <li>
-                    <Link to={this.linkTarget} data-nav-section="blog">
+                    {/* <Link to={this.linkTarget} data-nav-section="blog">
                       Reading List
-                    </Link>
-                    {/* <a href="#" data-nav-section="blog">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="blog">
                       Reading List
-                    </a> */}
+                    </a>
                   </li>
                   <li>
-                    <Link to={this.linkTarget} data-nav-section="service">
+                    {/* <Link to={this.linkTarget} data-nav-section="service">
                       Notes
-                    </Link>
-                    {/* <a href="#" data-nav-section="service">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="service">
                       Notes
-                    </a> */}
+                    </a>
                   </li>
                   <li>
-                    <Link to={this.linkTarget} data-nav-section="timeline">
+                    {/* <Link to={this.linkTarget} data-nav-section="timeline">
                       Timeline
-                    </Link>
-                    {/* <a href="#timeline" data-nav-section="timeline">
+                    </Link> */}
+                    <a href={this.mylink} target="_blank" data-nav-section="timeline">
                       Timeline
-                    </a> */}
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -133,7 +134,7 @@ export default class Sidebar extends Component {
                 <small>Something coming soon !!</small>
               </p> */}
               <a
-                href="https://github.com/dbarochiya"
+                href="http://localhost:3000/resume.pdf"
                 target="_blank"
               >
                 View Resume

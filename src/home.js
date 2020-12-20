@@ -7,6 +7,7 @@ import Timeline from './components/timeline';
 import Projects from './components/projects';
 import Blog from './components/blog';
 import Notes from './pages/Notes';
+import {Helmet} from "react-helmet";
 class Home extends Component {
 
   render() {
