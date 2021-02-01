@@ -2,6 +2,17 @@
 
 ---
 
+### Month of 12/01/2020
+
+* #### Research Papter
+    * Emotion Recognition from Multi-Channel EEG through Parallel Convolutional Recurrent Neural Network
+    * EEG-based Emotion Recognition via Channel-wise Attention and Self Attention
+    * A Principled Approach for Learning Task Similarity in Multitask Learning
+    * Challenges in Deploying Machine Learning: a Survey of Case Studies
+* #### ["Show Your Work!" - Austin Kleon ](https://www.amazon.ca/Show-Your-Work-Creativity-Discovered/dp/076117897X)
+* #### ["Mastering Python Design Patterns" - Sakis Kasampalis](https://images-na.ssl-images-amazon.com/images/I/51N+Ba1mYOL._SY498_BO1,204,203,200_.jpg)
+* #### [Grokking the Coding Interview: Patterns for Coding Questions - educative.io](https://www.educative.io/courses/grokking-the-coding-interview)
+
 ### Month of 11/01/2020
 
 * #### [Automata, Computability and Complexity: Theory and Applications](https://drive.google.com/file/d/1QJAdvq7HhscYHI8hjwxj-WBX-Gy01ONa/view?usp=sharing)

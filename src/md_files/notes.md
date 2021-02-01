@@ -3,6 +3,13 @@
 
 ### Machine Learning & Deep Learning 
 
+- #### Machine Learning research paper 
+    - [Note Link](https://drive.google.com/file/d/16NXpdveKrrS5AHe9bcnQP043rOI-63KG/view?usp=sharing)
+    - Emotion Recognition from Multi-Channel EEG through Parallel Convolutional Recurrent Neural Network
+    - EEG-based Emotion Recognition via Channel-wise Attention and Self Attention
+    - A Principled Approach for Learning Task Similarity in Multitask Learning
+    - Challenges in Deploying Machine Learning: a Survey of Case Studies
+
 - #### Deep Learning Specialization on Coursera
     - [Note Link](https://github.com/capitalallen/deep-learning-coursera)
     - Neural Network and Deep Learning
@@ -57,6 +64,12 @@
 
 ---
 
+### Design Pattern
+
+- #### C++ & Python
+    - [Note Link] (https://github.com/capitalallen/design-patterns)
+
+---
 ### Blockchain
 
 - #### Ethereum
