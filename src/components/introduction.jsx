@@ -49,8 +49,9 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>
-                            Debugging is my
-                            <br /> passion !!
+                            I'm not going to sit here and wait for things to happen,
+                            <br /> I am going to make them happen, 
+                            and if people think I'm an idiot I don't care
                           </h1>
                           <p>
                             <a

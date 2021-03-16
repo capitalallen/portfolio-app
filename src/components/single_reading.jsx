@@ -11,10 +11,10 @@ export default class single_reading extends Component {
       ["Machine Learning A Probabilistic Perspective",
        "https://storage.googleapis.com/resources-all/ml_books.jpg",
       ],
-      ["Cracking the Coding Interview",
+      ["Designing Data-Intensive Applications",
        "https://storage.googleapis.com/resources-all/coding.jpg"
       ],
-      ["How Google Works",
+      ["Elements of Programming Interviews",
        "https://storage.googleapis.com/resources-all/google.jpg"
       ],
   ];
