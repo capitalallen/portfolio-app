@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import LoadPDF from './load_pdf';
 import DocView from './doc_view';
 export default class ProjectDetailHelper extends Component {
   render() {

@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-
+import content from '../content/intro-content.json';
 export default class Introduction extends Component {
-  cv_link = "https://ace-resolver-237602.uc.r.appspot.com/resume.pdf"
-  proj_link = "https://ace-resolver-237602.uc.r.appspot.com/projectsoverview"
+  cv_link = process.env.PUBLIC_URL + content.resume;
+  proj_link = content.proj_link;
   render() {
     return (
       <div>
@@ -21,8 +21,8 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>
-                            Hi! <br />
-                            I'm Allen
+                            {content.hi} <br />
+                            {content.name}
                           </h1>
                           <p>
                             <a
@@ -49,9 +49,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>
-                            I'm not going to sit here and wait for things to happen,
-                            <br /> I am going to make them happen, 
-                            and if people think I'm an idiot I don't care
+                            {content.quote}
                           </h1>
                           <p>
                             <a
@@ -69,33 +67,6 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              {/* <li style={{ backgroundImage: 'url(images/img_bg.jpg)' }}>
-                <div className="overlay" />
-                <div className="container-fluid">
-                  <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>
-                            I often <br />
-                            Write ...{' '}
-                          </h1>
-                          <p>
-                            <a
-                              className="btn btn-primary btn-learn"
-                              href="https://dhruvbarochiya.me/"
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              View Blog <i className="icon-book" />
-                            </a>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li> */}
             </ul>
           </div>
         </section>

@@ -2,6 +2,36 @@
 
 ---
 
+### Month of 05/01/2021
+
+* #### gRPC
+    * [Python Microservices With gRPC](https://realpython.com/python-microservices-grpc/) 
+    * [gRPC: Up and Running](https://www.amazon.ca/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335) 
+* #### Proto3
+    * [Complete Introduction to Protocol Buffers 3] (https://subscription.packtpub.com/video/networking-and-servers/9781789349344) 
+
+* #### Algorithms
+    * [Elements of Programming Interviews in Python: The Insiders' Guide] (https://www.amazon.ca/Elements-Programming-Interviews-Python-Insiders/dp/1537713949) 
+
+* #### Python
+    * [Clean Code in Python: Develop maintainable and efficient code, 2nd Edition] (https://www.amazon.ca/Clean-Code-Python-maintainable-efficient-ebook/dp/B08R961TRD/ref=sr_1_1?crid=3R6O2UN2A5GYE&dchild=1&keywords=clean+code+in+python&qid=1620789011&s=books&sprefix=clean+code+in+py%2Cstripbooks%2C178&sr=1-1)
+    * [Using Asyncio in Python: Understanding Python's Asynchronous Programming Features] (https://www.amazon.ca/Using-Asyncio-Python-Understanding-Asynchronous-ebook/dp/B084D653HW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1620789036&sr=1-2)
+    * [Mastering Concurrency in Python] (https://www.amazon.ca/Mastering-Concurrency-Python-asynchronous-multithreading-ebook/dp/B07GYLYNCR/ref=sr_1_2?dchild=1&keywords=Mastering+Concurrency+in+Python&qid=1620789141&s=digital-text&sr=1-2)
+### Month of 04/01/2021
+
+* #### Microservice
+    * Microservice Patterns and Best Practices - Vinicius Feitosa Pacheco 
+    * Modern Container-Based DevOps: Managing Microservices using Kubernetes and Docker - Oreilly
+    
+* #### Machine Learning 
+    * Hands-on Machine Learning with Scikit-learn, Keras & TensorFlow 
+    * [Using LSTM in Stock prediction and Quantitative Trading](http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf) 
+    * [Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market](https://arxiv.org/abs/1903.12258)
+
+### Month of 03/01/2021
+* #### Machine Learning 
+    * [Feature Extraction and Selection for Emotion Recognition from EEG](https://ieeexplore.ieee.org/document/6858031) 
+    * [Emotion Recognition From Multi-Channel EEG via Deep Forest](https://ieeexplore.ieee.org/document/9096541)
 ### Month of 12/01/2020
 
 * #### Research Papter

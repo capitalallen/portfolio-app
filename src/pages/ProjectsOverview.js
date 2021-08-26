@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 import Sidebar from '../components/sidebar';
-import ProjectsAll from '../components/projects_all';
+import ProjectsAll from '../components/projects/ProjectsAll';
 class ProjectsOverview extends Component {
   render() {
     return (

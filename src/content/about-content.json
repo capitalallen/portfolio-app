@@ -1,0 +1,36 @@
+{
+    "intro":"I'm a M.S. in Computer Engineering student at New York University.",
+    "expertise":[
+        {
+            "title":"Full Stack Development",
+            "details":"I have experience building websites and mobeil applications using React.js, Node.js, SQL, Python",
+            "icon":"icon-bulb",
+            "color":"color-1"
+        },
+        {
+            "title":"Data Structures & Algorithms",
+            "details":"As coming from the CS background, I love sovling Algorithm Questions.",
+            "icon":"icon-diamond",
+            "color":"color-3"
+        },
+        {
+            "title":"Machine Learning",
+            "details":"I am Completing a thesis research about Emotion Recognitition, using Parallel Convolutional Recurrent Neural Network and baseline data preprocessing techniques.",
+            "icon":"icon-bubble3",
+            "color":"color-5"
+        },
+        {
+            "title":"Microservice Development",
+            "details":"I have built multiple projects applying microservice design patterns and tools like Docker, Kubernetes, Kafka and etc.",
+            "icon":"icon-cup",
+            "color":"color-1"
+        },
+        {
+            "title":"Blockchain Development",
+            "details":"I developed and issued my own ERC20 Cryptocurrency and built projects using Ethereum Blockchain.",
+            "icon":"icon-clock4",
+            "color":"color-3"
+        }
+    ]
+
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "time": "05/01/2021",
+    "items": [
+      {
+        "title": "gRPC",
+        "details": [
+          {
+            "name": "Python Microservices With gRPC",
+            "url": "https://realpython.com/python-microservices-grpc/",
+            "image": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg"
+          },
+          {
+            "name": "gRPC: Up and Running",
+            "url": "https://www.amazon.ca/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Proto3",
+        "details": [
+          {
+            "name": "Complete Introduction to Protocol Buffers 3",
+            "url": "ttps://subscription.packtpub.com/video/networking-and-servers/9781789349344",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Algorithms",
+        "details": [
+          {
+            "name": "Elements of Programming Interviews in Python: The Insiders' Guide",
+            "url": "https://www.amazon.ca/Elements-Programming-Interviews-Python-Insiders/dp/1537713949",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Python",
+        "details": [
+          {
+            "name": "Clean Code in Python: Develop maintainable and efficient code, 2nd Edition",
+            "url": "https://www.amazon.ca/Clean-Code-Python-maintainable-efficient-ebook/dp/B08R961TRD/ref=sr_1_1?crid=3R6O2UN2A5GYE&dchild=1&keywords=clean+code+in+python&qid=1620789011&s=books&sprefix=clean+code+in+py%2Cstripbooks%2C178&sr=1-1",
+            "image": null
+          },
+          {
+            "name": "Using Asyncio in Python: Understanding Python's Asynchronous Programming Features",
+            "url": "https://www.amazon.ca/Using-Asyncio-Python-Understanding-Asynchronous-ebook/dp/B084D653HW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1620789036&sr=1-2",
+            "image": null
+          },
+          {
+            "name": "Mastering Concurrency in Python",
+            "url": "https://www.amazon.ca/Mastering-Concurrency-Python-asynchronous-multithreading-ebook/dp/B07GYLYNCR/ref=sr_1_2?dchild=1&keywords=Mastering+Concurrency+in+Python&qid=1620789141&s=digital-text&sr=1-2",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "4/01/2021",
+    "items": [
+      {
+        "title": "Microservice",
+        "details": [
+          {
+            "name": "Microservice Patterns and Best Practices - Vinicius Feitosa Pacheco ",
+            "url": "",
+            "image": null
+          },
+          {
+            "name": "Modern Container-Based DevOps: Managing Microservices using Kubernetes and Docker - Oreilly",
+            "url": "",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning ",
+        "details": [
+          {
+            "name": "Hands-on Machine Learning with Scikit-learn, Keras & TensorFlow",
+            "url": "",
+            "image": null
+          },
+          {
+            "name": "Using LSTM in Stock prediction and Quantitative Trading",
+            "url": "http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf",
+            "image": null
+          },
+          {
+            "name": "Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market",
+            "url": "https://arxiv.org/abs/1903.12258",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "03/01/2021",
+    "items": [
+      {
+        "title": "Machine Learning",
+        "details": [
+          {
+            "name": "Feature Extraction and Selection for Emotion Recognition from EEG",
+            "url": "https://ieeexplore.ieee.org/document/6858031",
+            "image": null
+          },
+          {
+            "name": "Emotion Recognition From Multi-Channel EEG via Deep Forest",
+            "url": "https://ieeexplore.ieee.org/document/9096541",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "12/01/2020",
+    "items": [
+      {
+        "title": "Research Papter",
+        "details": [
+          {
+            "name": "Emotion Recognition from Multi-Channel EEG through Parallel Convolutional Recurrent Neural Network",
+            "url": "",
+            "image": null
+          },
+          {
+            "name": "EEG-based Emotion Recognition via Channel-wise Attention and Self Attention",
+            "url": "",
+            "image": null
+          },
+          {
+            "name": "A Principled Approach for Learning Task Similarity in Multitask Learning",
+            "url": "",
+            "image": null
+          },
+          {
+            "name": " Challenges in Deploying Machine Learning: a Survey of Case Studies",
+            "url": "",
+            "image": null
+          }
+        ]
+      },
+      {
+        "title": "Reading Books",
+        "details": [
+          {
+            "name": "Show Your Work!",
+            "url": "https://www.amazon.ca/Show-Your-Work-Creativity-Discovered/dp/076117897X",
+            "image": null
+          },
+          {
+            "name": "Mastering Python Design Patterns",
+            "url": "https://images-na.ssl-images-amazon.com/images/I/51N+Ba1mYOL._SY498_BO1,204,203,200_.jpg",
+            "image": null
+          },
+          {
+            "name": "Grokking the Coding Interview: Patterns for Coding Questions",
+            "url": "https://www.educative.io/courses/grokking-the-coding-interview",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "11/01/2020",
+    "items": [
+      {
+        "title": "Reading Books",
+        "details": [
+          {
+            "name": "Automata, Computability and Complexity: Theory and Applications",
+            "url": "https://drive.google.com/file/d/1QJAdvq7HhscYHI8hjwxj-WBX-Gy01ONa/view?usp=sharing",
+            "image": null
+          },
+          {
+            "name": "Machine Learning A Probabilistic Perspective",
+            "url": "https://drive.google.com/file/d/1T3zuxNKD5ButCFYXCbBmyEZbGVeDT3PA/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "10/01/2020",
+    "items": [
+      {
+        "title": "Machine Learning",
+        "details": [
+          {
+            "name": "Continuous Convolutional Neural Network with 3D Input for EEG-Based Emotion Recognition",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-04239-4_39",
+            "image": null
+          },
+          {
+            "name": "Emotion Recognition from Multi-Channel EEG through Parallel Convolutional Recurrent Neural Network",
+            "url": "https://ieeexplore.ieee.org/document/8489331",
+            "image": null
+          },
+          {
+            "name": "Machine Learning A Probabilistic Perspective",
+            "url": "https://drive.google.com/file/d/1T3zuxNKD5ButCFYXCbBmyEZbGVeDT3PA/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "09/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Automata, Computability and Complexity: Theory and Applications",
+            "url": "https://drive.google.com/file/d/1QJAdvq7HhscYHI8hjwxj-WBX-Gy01ONa/view?usp=sharing",
+            "image": null
+          },
+          {
+            "name": "Machine Learning A Probabilistic Perspective",
+            "url": "https://drive.google.com/file/d/1T3zuxNKD5ButCFYXCbBmyEZbGVeDT3PA/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "08/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Python Machine Learning - Second Edition",
+            "url": "https://www.amazon.ca/Python-Machine-Learning-Sebastian-Raschka/dp/1787125939",
+            "image": null
+          },
+          {
+            "name": "Official GRE Super Power Pack",
+            "url": "https://www.amazon.com/gp/product/1260026396/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "GRE Analytical Writing Supreme: Solutions to the Real Essay Topics",
+            "url": "https://www.amazon.com/GRE-Analytical-Writing-Supreme-Solutions-ebook/dp/B08B1KMHLQ/ref=sr_1_4?dchild=1&keywords=gre+writing&qid=1605674932&s=books&sr=1-4",
+            "image": null
+          },
+          {
+            "name": "GRE Analytical Writing: Solutions to the Real Essay Topics",
+            "url": "https://www.amazon.com/GRE-Analytical-Writing-Solutions-Topics/dp/1949395545/ref=sr_1_1?dchild=1&keywords=gre+writing&qid=1605674932&s=books&sr=1-1",
+            "image": null
+          },
+          {
+            "name": "GRE with Online Tests (Barron's Test Prep)",
+            "url": "https://www.amazon.com/gp/product/1438009151/?tag=mygre00-20",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "07/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Python Machine Learning - Second Edition",
+            "url": "https://www.amazon.ca/Python-Machine-Learning-Sebastian-Raschka/dp/1787125939",
+            "image": null
+          },
+          {
+            "name": "Official GRE Super Power Pack",
+            "url": "https://www.amazon.com/gp/product/1260026396/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "GRE Analytical Writing Supreme: Solutions to the Real Essay Topics",
+            "url": "https://www.amazon.com/GRE-Analytical-Writing-Supreme-Solutions-ebook/dp/B08B1KMHLQ/ref=sr_1_4?dchild=1&keywords=gre+writing&qid=1605674932&s=books&sr=1-4",
+            "image": null
+          },
+          {
+            "name": "GRE Analytical Writing: Solutions to the Real Essay Topics",
+            "url": "https://www.amazon.com/GRE-Analytical-Writing-Solutions-Topics/dp/1949395545/ref=sr_1_1?dchild=1&keywords=gre+writing&qid=1605674932&s=books&sr=1-1",
+            "image": null
+          },
+          {
+            "name": "The PowerScore GRE Verbal Reasoning Bible",
+            "url": "https://www.amazon.ca/PowerScore-GRE-Verbal-Reasoning-Bible/dp/099089343X/ref=sr_1_2?dchild=1&keywords=gre+verbal+reasoning+bible&qid=1605675264&s=books&sr=1-2",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "06/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Advances in Financial Machine Learning",
+            "url": "https://drive.google.com/file/d/1hvWJQRKNUBfxSYHRbUpUqnW299joVOse/view?usp=sharing",
+            "image": null
+          },
+          {
+            "name": "Official GRE Super Power Pack",
+            "url": "https://www.amazon.com/gp/product/1260026396/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "GRE Prep by Magoosh",
+            "url": "https://www.amazon.com/gp/product/1939418917/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "5 lb. Book of GRE Practice Problems",
+            "url": "https://www.amazon.com/gp/product/1941234518/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "GRE with Online Tests (Barron's Test Prep)",
+            "url": "https://www.amazon.com/gp/product/1438009151/?tag=mygre00-20",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "05/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Python Machine Learning - Second Edition",
+            "url": "https://www.amazon.ca/Python-Machine-Learning-Sebastian-Raschka/dp/1787125939",
+            "image": null
+          },
+          {
+            "name": "Official GRE Super Power Pack",
+            "url": "https://www.amazon.com/gp/product/1260026396/?tag=mygre00-20",
+            "image": null
+          },
+          {
+            "name": "GRE Analytical Writing Supreme: Solutions to the Real Essay Topics",
+            "url": "https://www.amazon.com/GRE-Analytical-Writing-Supreme-Solutions-ebook/dp/B08B1KMHLQ/ref=sr_1_4?dchild=1&keywords=gre+writing&qid=1605674932&s=books&sr=1-4",
+            "image": null
+          },
+          {
+            "name": "GRE Prep Plus 2020",
+            "url": "https://www.amazon.com/GRE-Prep-Plus-2020-Strategies/dp/1506248926/?tag=mygre00-20",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "04/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Advances in Financial Machine Learning",
+            "url": "https://drive.google.com/file/d/1hvWJQRKNUBfxSYHRbUpUqnW299joVOse/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "01/01/2020",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships",
+            "url": "https://drive.google.com/file/d/1RjYFq8Seojv5MdQmDTvkG3BHeGvSY--Q/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "12/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform",
+            "url": "http://www.di.fc.ul.pt/~bessani/publications/dsn18-hlfsmart.pdf",
+            "image": null
+          },
+          {
+            "name": "Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform",
+            "url": "https://arxiv.org/pdf/1805.11390.pdf",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "11/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Introduction to algorithms",
+            "url": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf",
+            "image": null
+          },
+          {
+            "name": "Cracking the Coding Interview",
+            "url": "https://drive.google.com/file/d/1T0KRf1ASNIcSqYmodv5PtIs5IaTtsRzf/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "10/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Introduction to algorithms",
+            "url": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf",
+            "image": null
+          },
+          {
+            "name": "Cracking the Coding Interview",
+            "url": "https://drive.google.com/file/d/1T0KRf1ASNIcSqYmodv5PtIs5IaTtsRzf/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "09/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Introduction to algorithms",
+            "url": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf",
+            "image": null
+          },
+          {
+            "name": "Cracking the Coding Interview",
+            "url": "https://drive.google.com/file/d/1T0KRf1ASNIcSqYmodv5PtIs5IaTtsRzf/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "8/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "How Google Works",
+            "url": "https://www.amazon.ca/How-Google-Works-Eric-Schmidt/dp/1455582344",
+            "image": null
+          },
+          {
+            "name": "Cracking the Coding Interview",
+            "url": "https://drive.google.com/file/d/1T0KRf1ASNIcSqYmodv5PtIs5IaTtsRzf/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "7/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Google Cloud Platform for Architects: Design and manage powerful cloud solutions",
+            "url": "https://drive.google.com/file/d/1lBH0SaFZ1GO27ZW3pGj7maequ9OAeSJI/view?usp=sharing",
+            "image": null
+          },
+          {
+            "name": "How Google Works",
+            "url": "https://www.amazon.ca/How-Google-Works-Eric-Schmidt/dp/1455582344",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "6/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Google Cloud Platform for Architects: Design and manage powerful cloud solutions",
+            "url": "https://drive.google.com/file/d/1lBH0SaFZ1GO27ZW3pGj7maequ9OAeSJI/view?usp=sharing",
+            "image": null
+          },
+          {
+            "name": "Node.js Design Patterns",
+            "url": "https://drive.google.com/file/d/1UAtBIwakSHzKcwtBRF2zQn5_mDGeqFiY/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "5/01/2019",
+    "items": [
+      {
+        "title": "",
+        "details": [
+          {
+            "name": "Ethereum yellow paper",
+            "url": "https://ethereum.github.io/yellowpaper/paper.pdf",
+            "image": null
+          },
+          {
+            "name": "Node.js Design Patterns",
+            "url": "https://drive.google.com/file/d/1UAtBIwakSHzKcwtBRF2zQn5_mDGeqFiY/view?usp=sharing",
+            "image": null
+          }
+        ]
+      }
+    ]
+  }
+]

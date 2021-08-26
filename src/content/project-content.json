@@ -1,0 +1,237 @@
+[
+    {
+        "title":"ML Trading",
+        "image":"https://kryptomoney.com/wp-content/uploads/2018/04/KryptoMoney.com-How-To-Become-a-Cryptocurrency-Trader.png",
+        "link":"",
+        "techStack":"GCP, Python, Sklearn, Tensorflow, SQLite",
+        "description":[
+            {
+                "content":"A cryptocurrency trading project that uses Machine Learning models to trade 4 different cryptocurrencies at the same time",
+                "detail":null
+            },
+            {
+                "content":"Implemented many algorithms from the book 'Advances in Financial Model'",
+                "detail":[
+                    "Converted Time-series data to Information-Driven data",
+                    "Event-Based Sampling",
+                    "Dynamic Threshold Labeling"
+                ]
+            },
+            {
+                "content":"Trained several Random Forest ML models on a GCP VM.",
+                "detail":null
+            },
+            {
+                "content":"Used multiprocessing to speed up ML model training.",
+                "detail":null
+            },
+            {
+                "content":"Built a Multiprocessing framework to trade 4 different cryptocurrencies at the same time.",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"IuvoShare",
+        "image":"https://storage.googleapis.com/resources-all/Screen%20Shot%202020-11-12%20at%2011.36.39%20PM.png",
+        "link":"https://play.google.com/store/apps/details?id=com.capitalallen.goodluck",
+        "techStack":"GCP VM & App Engine, Node.js, Solity, MongoDB, React Native, Ethereum",
+        "description":[
+            {
+                "content":"Built a React Native mobile app and Published it on Google play store and App store with about 100 downloads in one month.",
+                "detail":null
+            },
+            {
+                "content":"Built a layer-2 blockchain network with merkle patricia trie and Proof of Stake consensus Algorithm.",
+                "detail":null
+            },
+            {
+                "content":"Deployed a smart contract to use ERC20 Tokens.",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Landmark-recognition",
+        "image":"https://kryptomoney.com/wp-content/uploads/2018/04/KryptoMoney.com-How-To-Become-a-Cryptocurrency-Trader.png",
+        "link":"",
+        "techStack":"GCP, Node.js, Express.js, Python, Tensorflow",
+        "description":[
+            {
+                "content":"An mobile appliction that identifies monuments and landmark sites, and offers further information and links.",
+                "detail":null
+            },
+            {
+                "content":"Frontend built in React Native",
+                "detail":null
+            },
+            {
+                "content":"Built and Deployed APIs in Node.js to Google Cloud Cloud Function",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Kaggle machine learning competition",
+        "image":"https://www.pmlive.com/__data/assets/image/0005/409226/Kaggle-model-of-research.jpg",
+        "link":"",
+        "techStack":"Sklearn, Tensorflow, Pandas, seaborn, Python",
+        "description":[
+            {
+                "content":"Titanic: Machine Learning from Disaster",
+                "detail":[
+                    " Implemented a SuperLearner model to select best classifiers among 10 different classifiers including Random Forest, and etc.",
+                    "Accuracy Score: 0.88 and f1-score: 0.82"
+                ]
+            },
+            {
+                "content":"House Prices: Advanced Regression Techniques",
+                "detail":[
+                    "Built a StackedRegressor model to predict housing price",
+                    "RMSLE score: 0.075 and ranked top 10%"
+                ]
+            },
+            {
+                "content":"COVID19 Global Forecasting (Week 4)",
+                "detail":[
+                    "Built a XGBRegressor model to predict Covid-19 cases"
+                ]
+            },
+            {
+                "content":"Used multiprocessing to speed up ML model training.",
+                "detail":null
+            },
+            {
+                "content":"Built a Multiprocessing framework to trade 4 different cryptocurrencies at the same time.",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"PgBackup",
+        "image":"https://devpost.com/software/deepsus",
+        "link":"",
+        "techStack":"AWS S3, Python, PostgreSQL",
+        "description":[
+            {
+                "content":"Built a command line tool for backing up remote PostgreSQL databases locally or to AWS S3.",
+                "detail":null
+            },
+            {
+                "content":"Developed a Python script with multiprocessing library to increase database transfer speed up to 30%",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"CI/CD Pipeline",
+        "image":"https://storage.googleapis.com/resources-all/CI-CD-Pipeline-CI-CD-Pipeline-Edureka.png",
+        "link":"https://github.com/capitalallen/cicd-pipeline",
+        "techStack":"Kubernete, Gradle, Docker",
+        "description":[
+            {
+                "content":" Used a Jenkins file that tracks  alongside source control",
+                "detail":null
+            },
+            {
+                "content":"Built and deployed a Docker image using the Dockerfile and run the app",
+                "detail":null
+            },
+            {
+                "content":"Implemented automated deployment to the Kubernetes cluster in the Jenkins pipeline",
+                "detail":null
+            },
+            {
+                "content":"Added a smoke test with automated deployment and removed the human approval step from the pipeline",
+                "detail":null
+            }
+        ]
+    }, {
+        "title":"nwHacks",
+        "image":"https://kryptomoney.com/wp-content/uploads/2018/04/KryptoMoney.com-How-To-Become-a-Cryptocurrency-Trader.png",
+        "link":"https://github.com/capitalallen/nwhacks2020",
+        "techStack":"React Native, Node.js, GCP Vision API, MongoDB",
+        "description":[
+            {
+                "content":"Submission for nwHacks Hackathon",
+                "detail":null
+            },
+            {
+                "content":"uilt a mobile app that automates parking searches and payments.",
+                "detail":null
+            },
+            {
+                "content":"Used Google Vision API to identify and label the presence of a car before using Google OCR to capture the license plate number.",
+                "detail":null
+            },
+            {
+                "content":"USed MongoDB to store user details, banking information, and license plate number.",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Cloud Blockchain Payment",
+        "image":"",
+        "link":"https://github.com/capitalallen/RESI-API-with-Ethereum-private-network",
+        "techStack":"Solidity, Node.js, Google Cloud Compute Engine, Ethereum",
+        "description":[
+            {
+                "content":"Wrote APIs in Node.js to trigger payment functionalities through Smart Contract",
+                "detail":null
+            },
+            {
+                "content":"Set Up and Compiled Solidity Contract and deployed it to the Ethereum network",
+                "detail":null
+            },
+            {
+                "content":" Built a private Ethereum network which was hosted on Google Cloud Compute Engine",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Educhain",
+        "image":"https://storage.googleapis.com/resources-all/0_lj8DjVCSxKZEof05.jpg",
+        "link":"https://github.com/capitalallen/educhain",
+        "techStack":"Solidity, Node.js, Ethereum",
+        "description":[
+            {
+                "content":"Submission for Eth Waterloo Hackathon",
+                "detail":null
+            },
+            {
+                "content":"Mobile app that uses Ethereum bockchain to store survey data",
+                "detail":null
+            },
+            {
+                "content":"Mobile app was built in React Native",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Iuvo CryptoCurrency",
+        "image":"",
+        "link":"https://github.com/capitalallen/iuvoToken",
+        "techStack":"Ethereum, Solidity",
+        "description":[
+            {
+                "content":"wrote Smart Contract to create new cryptocurrency and deployed to Ethereum Test network",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"books_crawler",
+        "image":"",
+        "link":"https://github.com/capitalallen/books_crawler-1/",
+        "techStack":"Python",
+        "description":[
+            {
+                "content":"Built a web crawler to scrap data from various websites",
+                "detail":null
+            }
+        ]
+    }
+]

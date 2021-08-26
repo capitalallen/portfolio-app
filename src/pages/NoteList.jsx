@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 import Sidebar from '../components/sidebar';
-import NoteListPart from '../components/note_list';
+import NoteListPart from '../components/notes/NoteListPart';
 class NoteList extends Component {
   render() {
     return (

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 import Sidebar from '../components/sidebar';
-import ReadingListPart from '../components/reading_list';
+import ReadingListPart from '../components/reading-list/ReadingListPart';
 class ReadList extends Component {
   render() {
     return (
@@ -9,7 +9,7 @@ class ReadList extends Component {
         <div id="container-wrap">
           <Sidebar></Sidebar>
           <div id="colorlib-main">
-            <ReadingListPart></ReadingListPart>
+            <ReadingListPart/>
           </div>
         </div>
       </div>

@@ -1,6 +1,9 @@
-import React, { Component } from 'react';
-import termsFrPath from '../md_files/notes.md';
-import MdView from '../pages/md_view';
+import React, { Component } from "react";
+// import termsFrPath from '../../md_files/notes.md';
+// import MdView from '../md_view';
+import Divider from "@material-ui/core/Divider";
+import NoteSubject from "./NoteSubject";
+import content from "../../content/note-content.json";
 export default class NoteListPart extends Component {
   render() {
     return (
@@ -13,8 +16,12 @@ export default class NoteListPart extends Component {
                 <h2 className="colorlib-heading">Note List</h2>
               </div>
             </div>
-
-            <MdView termsFrPath={termsFrPath} />
+            {content.map((element) => (
+              <div>
+                <NoteSubject title={element.title} items={element.items} />
+                <Divider />
+              </div>
+            ))}
           </div>
         </section>
       </div>
