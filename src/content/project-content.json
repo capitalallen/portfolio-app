@@ -6,27 +6,31 @@
         "techStack":"GCP, Python, Sklearn, Tensorflow, SQLite",
         "description":[
             {
-                "content":"A cryptocurrency trading project that uses Machine Learning models to trade 4 different cryptocurrencies at the same time",
+                "content":"Built trading automation microservices that trade 4 cryptocurrencies andachieve 12% monthly gains",
                 "detail":null
             },
             {
-                "content":"Implemented many algorithms from the book 'Advances in Financial Model'",
-                "detail":[
-                    "Converted Time-series data to Information-Driven data",
-                    "Event-Based Sampling",
-                    "Dynamic Threshold Labeling"
-                ]
+                "content":"Developed 4 trading strategies using machine learning models including Random Forest for Mean Reverting & Trend following, word embeddings for SEC filings & financial news and CNNs for satellite images",
+                "detail": null 
             },
             {
-                "content":"Trained several Random Forest ML models on a GCP VM.",
+                "content":"Migrated trading APIs from REST to gRPC, which reduced latency for receiving data by 5 times",
+                "detail":null
+            }
+        ]
+    },
+    {
+        "title":"Sentiment analysis NPM package",
+        "image":"https://d33wubrfki0l68.cloudfront.net/50050ce664f28a36ff8b0d0b11ce0e77e92da5f4/31a11/static/ea373531e5e1fb2383725421c85c7739/12fd3/sentiment_analysis_machine_learning-thumbnail.png",
+        "link":"https://github.com/capitalallen/sentiment-analysis",
+        "techStack":"GCP VM & App Engine, Node.js, Solity, MongoDB, React Native, Ethereum",
+        "description":[
+            {
+                "content":" Programmed and published a node.js library for sentiment analysis and extraction with 50+ downloads",
                 "detail":null
             },
             {
-                "content":"Used multiprocessing to speed up ML model training.",
-                "detail":null
-            },
-            {
-                "content":"Built a Multiprocessing framework to trade 4 different cryptocurrencies at the same time.",
+                "content":"Developed 5 Deep learning models for various sentiment analysis tasks including GRU model for news-stock sentiment prediction, RoBERTa model for sentiment extraction and word embeddings for financial documents that achieved accuracy of 80%+",
                 "detail":null
             }
         ]
@@ -38,15 +42,11 @@
         "techStack":"GCP VM & App Engine, Node.js, Solity, MongoDB, React Native, Ethereum",
         "description":[
             {
-                "content":"Built a React Native mobile app and Published it on Google play store and App store with about 100 downloads in one month.",
+                "content":"Built and published a content-sharing mobile app on Google Play Store with 100+ downloads",
                 "detail":null
             },
             {
-                "content":"Built a layer-2 blockchain network with merkle patricia trie and Proof of Stake consensus Algorithm.",
-                "detail":null
-            },
-            {
-                "content":"Deployed a smart contract to use ERC20 Tokens.",
+                "content":"Built a private blockchain network with 3 nodes deployed on GCP Compute Engine and implemented Proof of Stake consensus mechanisms that achieve 200 transactions/s",
                 "detail":null
             }
         ]
@@ -58,15 +58,11 @@
         "techStack":"GCP, Node.js, Express.js, Python, Tensorflow",
         "description":[
             {
-                "content":"An mobile appliction that identifies monuments and landmark sites, and offers further information and links.",
+                "content":"Built and Published a landmark recognition mobile app on Google Play Store with 1,000+ downloads in a month",
                 "detail":null
             },
             {
-                "content":"Frontend built in React Native",
-                "detail":null
-            },
-            {
-                "content":"Built and Deployed APIs in Node.js to Google Cloud Cloud Function",
+                "content":"Used transfer learning to train a EfficientNet model for landmark recognition with accuracy of 82%",
                 "detail":null
             }
         ]
@@ -109,7 +105,7 @@
     },
     {
         "title":"PgBackup",
-        "image":"https://devpost.com/software/deepsus",
+        "image":"https://www.ifourtechnolab.com/pics/database_backup.png",
         "link":"",
         "techStack":"AWS S3, Python, PostgreSQL",
         "description":[
@@ -212,7 +208,7 @@
     },
     {
         "title":"Iuvo CryptoCurrency",
-        "image":"",
+        "image":"https://www.acuant.com/wp-content/uploads/2021/05/AdobeStock_275281521-1-1.jpeg",
         "link":"https://github.com/capitalallen/iuvoToken",
         "techStack":"Ethereum, Solidity",
         "description":[

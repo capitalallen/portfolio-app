@@ -9,7 +9,7 @@ const NoteSubject = (props) => {
         return (
           <div>
             <h4>{item.name}</h4>
-            {item.image ? <image src={item.image} /> : null}
+            {item.image ? <img src={item.image} style={{ maxHeight: 150 }} />  : null}
             <NoteDescription link={item.link} description={item.description}/>
           </div>
         );

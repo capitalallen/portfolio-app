@@ -1,26 +1,32 @@
 [
   {
     "title": "Graduate Student at New York University",
-    "time": " 2021-2023",
+    "time": " 08/2021-04/2023",
     "detail": "I am pursuing a master's degree in Computer Engineering.",
     "color":"color-1"
   },
   {
     "title": "Full Stack Developer at Mozzaz Corporation",
-    "time": " 2021-2021",
+    "time": " 02/2021-06/2021",
     "detail": "Worked on MozzazTalk Platform.",
     "color":"color-3"
   },
   {
-    "title": "Software Developer & Co-founder of VpickU",
-    "time": " 2016-2017",
-    "detail": "VpickU is a startup company which helps International Students to settle down in Canada. I bulit both frontend and backend of the websites to receieve orders from students. I also developed a traffic tracking library to visualize where the traffic comes from.  ",
+    "title": "Software Developer Developer at Iuvo Ridesharing",
+    "time": " 04/2019-08/2019",
+    "detail": "Worked on building microservices including authentication, order and payment for a ridesharing mobile app",
     "color":"color-5"
   },
   {
-    "title": "Undergraduate Student at Western University",
-    "time": "2016-2021",
-    "detail": "I received my under-graduation degree with major in Computer Science at Western University.",
+    "title": "Software Developer & Co-founder of VpickU",
+    "time": "03/2016-08/2017",
+    "detail": "VpickU is a startup company which helps International Students to settle down in Canada. I bulit both frontend and backend of the websites to receieve orders from students. I also developed a traffic tracking library to visualize where the traffic comes from.  ",
     "color":"color-1"
+  },
+  {
+    "title": "Undergraduate Student at Western University",
+    "time": "09/2016-04/2021",
+    "detail": "I received my under-graduation degree with major in Computer Science at Western University.",
+    "color":"color-3"
   }
 ]
